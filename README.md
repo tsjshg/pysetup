@@ -1,2 +1,3 @@
 # pysetup
-Pythonの環境構築
+
+memo: ページの更新はgh-pagesブランチにpush
