@@ -5,7 +5,7 @@
 
 ## 前提知識
 
-CUIのシェルを使ったコンピュータの操作が必要です。Windows系OSではPowerShell、macOSではターミナルと呼ばれるソフトウェアです。pipやcondaといったコマンドをシェルに入力して実行します。
+[CUIのシェルを使ったコンピュータの操作](https://tsjshg.github.io/pysetup/cui-shell)が必要です。Windows系OSではPowerShell、macOSではターミナルと呼ばれるソフトウェアです。pipやcondaといったコマンドをシェルに入力して実行します。
 
 ## Python環境設定の基礎
 
