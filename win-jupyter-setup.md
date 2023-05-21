@@ -97,7 +97,7 @@ py -m pip install -U pip
 
 ## JupyterLabの起動
 
-PowerSHellから次のコマンドでJupyterLabを起動します。
+PowerShellから次のコマンドでJupyterLabを起動します。
 
 ```
 jupyter-lab
